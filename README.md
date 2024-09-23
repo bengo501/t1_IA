@@ -8,14 +8,6 @@ Requisitos
     Python 3.x
     Bibliotecas: pandas, numpy, scikit-learn, jupyter, matplotlib
 
-Passos para executar o projeto
-
-    Clone este repositório ou baixe os arquivos:
-
-    bash
-
-git clone https://github.com/seu-repositorio/tic-tac-toe-IA.git
-cd tic-tac-toe-IA
 
 Instale as dependências necessárias executando o seguinte comando:
 
@@ -35,5 +27,4 @@ Após o treinamento dos modelos no notebook t1_IA.ipynb, o jogador pode escolher
 Arquivos do Projeto
 
     t1_IA.ipynb: Notebook para o treinamento dos modelos de IA.
-    main.ipynb: Notebook para rodar o jogo da velha com a IA.
     requirements.txt: Lista de dependências do projeto.
